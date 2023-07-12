@@ -19,7 +19,7 @@ This project includes main.py, which is the main game that can be played. It als
 Contributors names and contact info
 
 Rishika Chakravorty
-[rishika95.com](www.rishika95.com)
+[rishikachaks.com](www.rishikachaks.framer.website)
 
 ## Version History
 
